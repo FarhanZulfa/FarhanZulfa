@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="200">
+  <style>
+    .sig-line {
+      fill: none;
+      stroke-width: 6;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 1 1;
+      stroke-dashoffset: 1;
+      animation: drawSig 2.5s ease-in-out infinite;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .sig-line { stroke: #e2e8f0; }
+    }
+    @media (prefers-color-scheme: light) {
+      .sig-line { stroke: #1a1a2e; }
+    }
+
+    .f-letter { animation-delay: 0s; }
+    .z-letter { animation-delay: 0.5s; }
+    .dot-accent { animation-delay: 1.0s; }
+    .underline { animation-delay: 1.2s; }
+
+    @keyframes drawSig {
+      0% {
+        stroke-dashoffset: 1;
+        opacity: 0.3;
+      }
+      10% {
+        opacity: 1;
+      }
+      50% {
+        stroke-dashoffset: 0;
+        opacity: 1;
+      }
+      80% {
+        stroke-dashoffset: 0;
+        opacity: 1;
+      }
+      100% {
+        stroke-dashoffset: -1;
+        opacity: 0.3;
+      }
+    }
+  </style>
+
+  <!-- Letter F - elegant cursive -->
+  <path class="sig-line f-letter" pathLength="1"
+    d="M 150,320 
+       C 150,320 140,100 180,80 
+       C 220,60 260,80 280,100
+       M 120,180 
+       C 120,180 200,170 260,185" />
+
+  <!-- Letter Z - flowing style -->
+  <path class="sig-line z-letter" pathLength="1"
+    d="M 320,100 
+       C 320,100 420,90 480,100 
+       L 330,310 
+       C 330,310 440,320 510,300
+       C 530,295 540,310 520,320" />
+
+  <!-- Decorative dot -->
+  <circle class="sig-line dot-accent" pathLength="1" cx="290" cy="110" r="6"
+    style="fill: none; stroke-dasharray: 1 1;" />
+
+  <!-- Underline flourish -->
+  <path class="sig-line underline" pathLength="1"
+    d="M 130,350 
+       C 200,340 400,330 540,345
+       C 580,348 600,335 620,320" />
+</svg>
