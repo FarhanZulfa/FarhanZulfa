@@ -1,6 +1,4 @@
 <h1 align="center">
-  <img src="wave.svg" width="80">
-  <br>
   Hey there! I'm <span>𝔉arhan 𝒵ulfa</span>
 </h1>
 
@@ -29,9 +27,8 @@
 
 </div>
 
----
 
-### <h2> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> About Me
+### <h2> About Me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" />
