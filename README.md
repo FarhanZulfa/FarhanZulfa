@@ -6,14 +6,7 @@
 
 <div align="center">
 
-<br>
 
-<!-- Animated Signature -->
-<p align="center">
-  <img src="signature.svg" alt="Animated Signature" width="350px" />
-</p>
-
-<br>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -49,12 +42,12 @@
 
 <br>
 
-- 🎓 **Informatics Engineering Student** at **Politeknik Caltex Riau**
-- 💻 Passionate about **Software Development**, **Web Technologies**, and **AI**
-- 🌱 Currently exploring **Machine Learning** & **Data Engineering**
-- 📍 Based in **Balikpapan, Indonesia**
-- 📫 Reach me at **farhanzulfa0705@gmail.com**
-- 🎯 Goals: Building impactful software and contributing to the tech community
+- **Informatics Engineering Student** at **Politeknik Caltex Riau**
+- Passionate about **Software Development**, **Web Technologies**, and **AI**
+- Currently exploring **Machine Learning** & **Data Engineering**
+- Based in **Balikpapan, Indonesia**
+- Reach me at **farhanzulfa0705@gmail.com**
+- Goals: Building impactful software and contributing to the tech community
 
 <br><br>
 <br><br>
@@ -80,43 +73,4 @@
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 
-</p>
-
----
-
-### <h2> 📊 GitHub Stats </h2>
-
-<p align="center">
-  <a href="https://github.com/FarhanZulfa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhanZulfa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanZulfa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/FarhanZulfa">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanZulfa&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-  </a>
-</p>
-
----
-
-### <h2> 🐍 Contribution Snake </h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FarhanZulfa/FarhanZulfa/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FarhanZulfa/FarhanZulfa/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/FarhanZulfa/FarhanZulfa/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FarhanZulfa&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <b>⭐ From <a href="https://github.com/FarhanZulfa">FarhanZulfa</a> with ❤️</b>
 </p>
